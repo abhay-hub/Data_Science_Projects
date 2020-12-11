@@ -11,3 +11,9 @@
    
       - Technique used are ___Python, Logistic Regression, K Nearest Neighbour (KNN), Support Vector Machine (SVM) , RandomForest (RF), Decision Tree, Neural Network (ANN), Data Pre-processing, Data manipulation, Outlier Detection,Data Visualization___.
 
+
+- ### [Breast Cancer Classification](https://github.com/abhay-hub/Data_Science_Projects/blob/main/heart-data-uci.ipynb) - Classification problem
+   - This data consist of data related to heart disease and task in hand is to accurately identify if a given person has a heart disease or not. Here I compared different __Machine Learning__ techniques and checked their accuracy score.
+   
+      - Technique used are ___Python, Logistic Regression, K Nearest Neighbour (KNN), Support Vector Machine (SVM) , RandomForest (RF), Decision Tree, Neural Network (ANN), Data Pre-processing, Data manipulation, Outlier Detection,Data Visualization___.
+
