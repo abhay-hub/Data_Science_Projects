@@ -18,4 +18,7 @@
       - Technique used are ___R, Neural Network (ANN), Data Pre-processing, Data manipulation, Data Visualization___.
 
 
-- ### [Spam Detection] 
+- ### [Spam Detection](https://github.com/abhay-hub/Data_Science_Projects/blob/main/Spam%20_detection.ipynb) - NLP
+   - The data consist of Spam text messages. It contains two columns containing labels and text messages. Normalization,Vectorization and Transformation was performed in order to apply the __Machine Learning Model__ and perform the classification.
+      
+      -  Technique used are ___Python, Naive Bayes, Data Pre-processing, Data manipulation, NLTK, TF-IDF___.
